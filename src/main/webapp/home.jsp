@@ -41,7 +41,7 @@
                         </div>
                         <div class="card-footer">
                             <div class="row">
-                                <div class="col">
+                                <div class="col"
                                     <p class="btn btn-danger btn-block"> <%= x.getGia() %> </p>
                                 </div>
                                 <div class="col">
